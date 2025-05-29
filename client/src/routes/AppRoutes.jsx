@@ -1,9 +1,10 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "../Pages/Home";
-import SignIn from "../Pages/SignIn";
+
+import SignUp from "../Pages/SignUp";
 import NotFound from "../Pages/NotFound";
 import BasicLayouts from "../Layouts/BasicLayouts";
-import Login from "../Pages/SignIn";
+import Login from "../Pages/Login";
 
 export default function AppRoutes() {
   return (
